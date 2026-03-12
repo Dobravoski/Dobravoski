@@ -7,9 +7,11 @@ Software Engineering student focused on back-end development and building a stro
 
 ## About
 
-I am currently pursuing a degree in Software Engineering at UTFPR and developing my skills in system design and programming fundamentals. My main experience so far is with Python, and I am currently strengthening my knowledge in Java and Object-Oriented Programming.
+I am currently pursuing a degree in Software Engineering at UTFPR, focusing on strengthening my skills in software development and system design.
 
-I am continuously improving my understanding of programming logic, data structures, version control, and clean code practices.
+My primary work and studies are currently centered around Java and Object-Oriented Programming, where I am deepening my understanding of software architecture and core programming principles. I also have experience with Python, which helped build my foundation in programming and problem solving.
+
+I am continuously improving my knowledge of programming logic, data structures, version control, and clean code practices.
 
 My goal is to build well-structured and maintainable software while developing strong problem-solving skills.
 
@@ -17,12 +19,12 @@ My goal is to build well-structured and maintainable software while developing s
 
 ## Technologies
 
-- Python
-- Pandas
 - Java
+- Python
 - Git  
-- PyCharm 
+- Pandas
 - IntelliJ IDEA  
+- PyCharm 
 
 ## Currently Learning
 
